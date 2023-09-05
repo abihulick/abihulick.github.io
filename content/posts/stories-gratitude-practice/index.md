@@ -1,10 +1,12 @@
-+++
-title = 'Why I am Diving into Stories for a Deeper Gratitude Practice'
-date = 2023-09-04T18:13:13-06:00
-draft = false
-disableShare = true
-tags = ["gratitude", "huberman"]
-+++
+---
+title: Why I am Diving into Stories for a Deeper Gratitude Practice
+date: "2023-09-04T18:13:13-06:00"
+draft: false
+disableShare: true
+tags:
+    - gratitude
+    - huberman
+---
 
 A few times each week, I sit down to reflect on a couple of meaningful moments in my gratitude journal.
 
