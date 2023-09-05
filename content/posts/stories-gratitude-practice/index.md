@@ -32,7 +32,7 @@ When it comes to making my gratitude practice into a habit, I’ll be pairing it
 
 In the words of James Clear[^2], ‘habit stacking’ takes advantage of existing synapses to create a cue for a new habit.
 
-The formula: After/Before [existing habit], I will [new habit].
+*The formula:* After/Before `existing habit`, I will `new habit`.
 
 For me, that’s ‘After I open my gratitude journal, I will ‘feel into’ my story of gratitude.
 
@@ -62,10 +62,13 @@ In the front of my gratitude journal, I copied a poem of Rupi Kaur’s[^4]. It r
 
 Emotions are fleeting things. If we wait until we *feel* like being grateful, we might end up bitter and pessimistic, expecting good things to fall into our laps. If we embrace the obligation of intentional practices, we strengthen our gratitude; putting in the work can result in spontaneous gratitude. Gratitude can be deeply felt *and* intentional, structured *and* meaningful. **The satisfaction lives in our gratitude.**
 
+
 ![The Science of Gratitude & How to Build a Gratitude Practice _ Huberman Lab Podcast #47.png](1.png)
 
+---
+*After reading this, did you decide to create or revise your gratitude practice?*
+*[Let me know!](https://twitter.com/messages/compose?recipient_id=2381079666)* 📬
 
-💡 After reading this, did you decide to create or revise your gratitude practice? Let me know!
 
 
 [^1]: Andrew Huberman (of [Huberman Lab](https://hubermanlab.com/)) is the people’s neuroscientist. His mission is to create zero cost to consumer content that helps us optimize our routines and understand the inner workings of our nervous system. He is an incredible influence in our household and the reason why we prioritize cold/heat exposure, seek out morning light, and praise effort over performance. 

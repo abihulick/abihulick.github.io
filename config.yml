@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hi, I'm Abi \U0001F337"
+    Content: Navigating Customer Success in a SaaS world by day, and a bookworm by night. Embracing vanlife adventures soon! Fueled by growth, kindness, and curiosity.
 
   socialIcons:
     - name: twitter
