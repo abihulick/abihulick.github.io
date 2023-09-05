@@ -62,7 +62,7 @@ And look around at everything you do
 
 Emotions are fleeting things. If we wait until we *feel* like being grateful, we might end up bitter and pessimistic, expecting good things to fall into our laps. If we embrace the obligation of intentional practices, we strengthen our gratitude; putting in the work can result in spontaneous gratitude. Gratitude can be deeply felt *and* intentional, structured *and* meaningful. **The satisfaction lives in our gratitude.**
 
-![The Science of Gratitude & How to Build a Gratitude Practice _ Huberman Lab Podcast #47.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/736b97fc-3587-4f8d-a1ca-825e9dfbd532/67cad4c4-47de-439b-8ade-4efc6e712ed9/The_Science_of_Gratitude__How_to_Build_a_Gratitude_Practice___Huberman_Lab_Podcast_47.png)
+![The Science of Gratitude & How to Build a Gratitude Practice _ Huberman Lab Podcast #47.png](1.png)
 
 <aside>
 💡 After reading this, did you decide to create or revise your gratitude practice? Let me know!
