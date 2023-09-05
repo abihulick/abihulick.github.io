@@ -62,7 +62,7 @@ In the front of my gratitude journal, I copied a poem of Rupi Kaur’s[^4]. It r
 
 Emotions are fleeting things. If we wait until we *feel* like being grateful, we might end up bitter and pessimistic, expecting good things to fall into our laps. If we embrace the obligation of intentional practices, we strengthen our gratitude; putting in the work can result in spontaneous gratitude. Gratitude can be deeply felt *and* intentional, structured *and* meaningful. **The satisfaction lives in our gratitude.**
 
-![The Science of Gratitude & How to Build a Gratitude Practice _ Huberman Lab Podcast #47.png](2.png)
+![The Science of Gratitude & How to Build a Gratitude Practice _ Huberman Lab Podcast #47.png](1.png)
 
 
 💡 After reading this, did you decide to create or revise your gratitude practice? Let me know!
