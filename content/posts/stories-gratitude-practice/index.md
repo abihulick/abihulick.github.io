@@ -10,7 +10,7 @@ A few times each week, I sit down to reflect on a couple of meaningful moments i
 
 **While practicing gratitude *can* lead to more ‘life experience awe,’ journaling alone isn’t enough to activate the gratitude mindset.**
 
-Following the insights from Stanford neuroscientist, Andrew Huberman, I’m switching up my routine.[^1]
+Following the insights from Stanford neuroscientist, Andrew Huberman[^1], I’m switching up my routine.
 
 ## Diving into a Story of Gratitude
 
@@ -30,7 +30,7 @@ To use a story in your practice 👇
 
 When it comes to making my gratitude practice into a habit, I’ll be pairing it with an existing habit—my journaling. 
 
-In the words of James Clear, ‘habit stacking’ takes advantage of existing synapses to create a cue for a new habit.^2
+In the words of James Clear[^2], ‘habit stacking’ takes advantage of existing synapses to create a cue for a new habit.
 
 The formula: After/Before [existing habit], I will [new habit].
 
@@ -46,32 +46,29 @@ At first glance, obligation feels like the enemy of gratitude. Isn’t *true* 
 
 Not at all. The fact that we need to consciously practice our gratitude doesn’t mean it’s insincere. 
 
-Philip Watkins^3, professor of Psychology and researcher of the science of gratitude, theorizes that gratitude acts as an amplifier: “by experiencing and expressing gratitude, information on the goodness in one’s life is strengthened, and this is the principal reason for why gratitude enhances well-being.” In other words, our awareness of the good in our life both alerts us to the “what and who to approach to enhance happiness,” and increases our life satisfaction.
+Philip Watkins[^3], professor of Psychology and researcher of the science of gratitude, theorizes that gratitude acts as an amplifier: “by experiencing and expressing gratitude, information on the goodness in one’s life is strengthened, and this is the principal reason for why gratitude enhances well-being.” In other words, our awareness of the good in our life both alerts us to the “what and who to approach to enhance happiness,” and increases our life satisfaction.
 
-In the front of my gratitude journal, I copied a poem of Rupi Kaur’s.^4 It reads:
+In the front of my gratitude journal, I copied a poem of Rupi Kaur’s[^4]. It reads:
 
-You have so much
-
-But you are always hungry for more
-
-Stop looking up at everything you don’t have
-
-And look around at everything you do
-
-- Where the satisfaction lives
+>You have so much
+>
+>But you are always hungry for more
+>
+>Stop looking up at everything you don’t have
+>
+>And look around at everything you do
+>
+>\- Where the satisfaction lives
 
 Emotions are fleeting things. If we wait until we *feel* like being grateful, we might end up bitter and pessimistic, expecting good things to fall into our laps. If we embrace the obligation of intentional practices, we strengthen our gratitude; putting in the work can result in spontaneous gratitude. Gratitude can be deeply felt *and* intentional, structured *and* meaningful. **The satisfaction lives in our gratitude.**
 
-![The Science of Gratitude & How to Build a Gratitude Practice _ Huberman Lab Podcast #47.png](1.png)
+![The Science of Gratitude & How to Build a Gratitude Practice _ Huberman Lab Podcast #47.png](2.png)
 
-<aside>
+
 💡 After reading this, did you decide to create or revise your gratitude practice? Let me know!
 
-</aside>
 
-**Notes**
-
-1. Andrew Huberman (of [Huberman Lab](https://hubermanlab.com/)) is the people’s neuroscientist. His mission is to create zero cost to consumer content that helps us optimize our routines and understand the inner workings of our nervous system. He is an incredible influence in our household and the reason why we prioritize cold/heat exposure, seek out morning light, and praise effort over performance. 
-2. James Clear is the author of Atomic Habits (a practical book that’s easy to read, which is why I think it’s so powerful). He has blog post just on habit stacking [here](https://jamesclear.com/habit-stacking).
-3. [Philip Watkins](https://www.researchgate.net/profile/Philip-Watkins) has been studying and publishing work on gratitude for over a decade at Eastern Washington University. Quotes in this post are from his 2014 book ‘**Gratitude and the Good Life: Toward a Psychology of Appreciation**’, but he’s published several more recent studies.
-4. [Rupi Kaur](https://rupikaur.com/pages/about-me) is a poet and performer. Her book ‘*the sun and her flowers*’ is one of my favorite collections, which is the source of this poem.
+[^1]: Andrew Huberman (of [Huberman Lab](https://hubermanlab.com/)) is the people’s neuroscientist. His mission is to create zero cost to consumer content that helps us optimize our routines and understand the inner workings of our nervous system. He is an incredible influence in our household and the reason why we prioritize cold/heat exposure, seek out morning light, and praise effort over performance. 
+[^2]: James Clear is the author of Atomic Habits (a practical book that’s easy to read, which is why I think it’s so powerful). He has blog post just on habit stacking [here](https://jamesclear.com/habit-stacking).
+[^3]: [Philip Watkins](https://www.researchgate.net/profile/Philip-Watkins) has been studying and publishing work on gratitude for over a decade at Eastern Washington University. Quotes in this post are from his 2014 book ‘**Gratitude and the Good Life: Toward a Psychology of Appreciation**’, but he’s published several more recent studies.
+[^4]: [Rupi Kaur](https://rupikaur.com/pages/about-me) is a poet and performer. Her book ‘*the sun and her flowers*’ is one of my favorite collections, which is the source of this poem.
