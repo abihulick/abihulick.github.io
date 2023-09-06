@@ -74,6 +74,6 @@ Emotions are fleeting things. If we wait until we *feel* like being grateful, 
 
 
 [^1]: Andrew Huberman (of [Huberman Lab](https://hubermanlab.com/)) is the people’s neuroscientist. His mission is to create zero cost to consumer content that helps us optimize our routines and understand the inner workings of our nervous system. He is an incredible influence in our household and the reason why we prioritize cold/heat exposure, seek out morning light, and praise effort over performance. 
-[^2]: James Clear is the author of Atomic Habits (a practical book that’s easy to read, which is why I think it’s so powerful). He has blog post just on habit stacking [here](https://jamesclear.com/habit-stacking).
+[^2]: James Clear is the author of Atomic Habits (a practical book that’s easy to read, which is why I think it’s so powerful). He has a blog post just on habit stacking [here](https://jamesclear.com/habit-stacking).
 [^3]: [Philip Watkins](https://www.researchgate.net/profile/Philip-Watkins) has been studying and publishing work on gratitude for over a decade at Eastern Washington University. Quotes in this post are from his 2014 book ‘**Gratitude and the Good Life: Toward a Psychology of Appreciation**’, but he’s published several more recent studies.
 [^4]: [Rupi Kaur](https://rupikaur.com/pages/about-me) is a poet and performer. Her book ‘*the sun and her flowers*’ is one of my favorite collections, which is the source of this poem.
