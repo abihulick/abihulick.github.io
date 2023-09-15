@@ -1,18 +1,11 @@
 ---
-title: Why I am Diving into Stories for a Deeper Gratitude Practice
-date: "2023-09-15T14:13:13-06:00"
-draft: false
+title: An Inside Look at the Industry Bringing Prime to Your Doorstep
+date: "2023-09-11T18:13:13-06:00"
+draft: true
 disableShare: true
 tags:
     - gratitude
     - huberman
-cover:
-  image: "2.jpeg"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Peek at the pages of Abi's gratitude journal for the week of September 15th, against the background of trees and a blue sky"
-  caption: 
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 A few times each week, I sit down to reflect on a couple of meaningful moments in my gratitude journal.
