@@ -1,79 +1,90 @@
 ---
 title: An Inside Look at the Industry Bringing Prime to Your Doorstep
 date: "2023-09-11T18:13:13-06:00"
-draft: true
+draft: false
 disableShare: true
 tags:
-    - gratitude
-    - huberman
+    - industry insights
+    - amazon
 ---
 
-A few times each week, I sit down to reflect on a couple of meaningful moments in my gratitude journal.
+I once totaled up the number of Amazon orders my family has made in the last two decades. It was, quite frankly, excessive.
 
-**While practicing gratitude *can* lead to more ‘life experience awe,’ journaling alone isn’t enough to activate the gratitude mindset.**
+That being said, I can’t deny the perks of having so many essentials right at your fingertips—especially as someone who lives in the middle of nowhere. In rural Wyoming, Amazon Prime reliably and affordably delivers essentials to my family year-round.
 
-Following the insights from Stanford neuroscientist, Andrew Huberman[^1], I’m switching up my routine.
+**But how exactly do the magical Prime packages arrive on your doorstep so quickly? Turns out it’s more complicated than I thought.**
 
-## Diving into a Story of Gratitude
+Read on for insights I’ve gleaned while working in the Amazon ecosystem this year. 👇 
 
-Huberman highlights how gratitude activates pro-social circuitry in the brain, which can ultimately lead to greater life satisfaction and bring us closer to ourselves and others.
+### **Sellers from all over the world source and list products**
 
-The *most effective way* to activate a mindset of gratitude? ‘Feeling into’ a narrative centering genuine gratitude.
+The most surprising insight for me is that we are often buying from small businesses and regular people on Amazon. If you see **Ships from** `[Amazon.com]` paired with **Sold by** `[any business other than Amazon]`, it means you’re buying from another company (third party or ‘3P’).
 
-**Stories connect us. They make gratitude palpable.** 
+These can be established businesses selling their own products on the Amazon marketplace for greater reach, but it’s often individuals and small businesses who found that product cheaper elsewhere to resell on Amazon.
 
-To use a story in your practice 👇 
+There are entire communities of students, stay-at-home moms, retirees, etc. making a living selling on Amazon. The most common business models are arbitrage (online or retail), wholesale, drop shipping, and private label.
 
-1. Select a meaningful story, where you or someone else is on the receiving end of gratitude
-2. Create a cue for yourself, jotting down (a) the struggle (b) the help received (c) your emotional connection to the story
-3. Spend one to two minutes a few times a week immersing yourself in the story
+![Most common 3P Business Models Sketch.png](1+.png)
 
-## Adopting Gratitude as a Habit
+Among these, arbitrage is the most likely to result in competition on a listing itself (ie. when multiple sellers are selling the exact same item).
 
-When it comes to making my gratitude practice into a habit, I’ll be pairing it with an existing habit—my journaling. 
+Given the low barrier to entry, selling on Amazon is an attractive side hustle. I once met a woman who generated thousands of dollars of revenue each month reselling a popular southern breakfast grain on Amazon, and a county judge who operated a pet supply storefront.
 
-In the words of James Clear[^2], ‘habit stacking’ takes advantage of existing synapses to create a cue for a new habit.
+What do you need to get started? Grit, a credit card, and a physical address.
 
-*The formula:* After/Before `existing habit`, I will `new habit`.
+> The main takeaway: **Average folks make a living on Amazon**, and they do it from anywhere, on their own time. Assuming you’ve got the capital and persistence, you could too.
+> 
 
-For me, that’s ‘After I open my gratitude journal, I will ‘feel into’ my story of gratitude.
+### **Multiple sellers on a listing compete for the ‘Buy Box’**
 
-## Embracing the structure of a gratitude practice
+Once the seller has sourced the item, their mission is to sell it as quickly as possible at the highest price a consumer will pay. This is where the ‘Buy Box’ comes in—which is simply the ‘Add to cart’ button to consumers.
 
-When I practice gratitude regularly, I find myself on the lookout for the little things that bring a sense of fullness to my life—like cuddles with my nephews and the birds chirping outside my window on a Monday morning.
+At any one time, you will see one seller’s offer displayed on the front page for purchase. This is obviously a coveted position to be in, as 82% of sales come from the Buy Box[^1]. It makes sense, because there’s virtually no friction to checking out with the offer that’s in the ‘Add to cart’ position.
 
-There are days where it feels more routine than spontaneous, and the structure brings a sense of obligation.
+![Buy Box Sketch.png](2.png)
 
-At first glance, obligation feels like the enemy of gratitude. Isn’t *true* gratitude supposed to overflow from us, a natural response to blessing? Isn’t gratitude a warm and fuzzy feeling that settles over family dinners at Thanksgiving?
+This is where my work over the past year comes in—the world of Amazon repricers. The company[^2] where I manage Customer Success designed a software to optimize prices to give sellers the best chance at winning the Buy Box. 
 
-Not at all. The fact that we need to consciously practice our gratitude doesn’t mean it’s insincere. 
+Many factors go into determining the Buy Box ‘winner’ (some of which are mostly speculation, as the true algorithm is under Amazon lock and key), including quality of reviews, review volume, order defect rate, reliability, speed of delivery, and price—the lever sellers can control the most directly. 
 
-Philip Watkins[^3], professor of Psychology and researcher of the science of gratitude, theorizes that gratitude acts as an amplifier: “by experiencing and expressing gratitude, information on the goodness in one’s life is strengthened, and this is the principal reason for why gratitude enhances well-being.” In other words, our awareness of the good in our life both alerts us to the “what and who to approach to enhance happiness,” and increases our life satisfaction.
+💡*Repricers adjust seller’s prices to keep them competitive with other sellers on the listing. These can often be set to match or undercut the offer in the Buy Box.*
 
-In the front of my gratitude journal, I copied a poem of Rupi Kaur’s[^4]. It reads:
+Amazon also wants to provide consumers with the best prices, so they’ll weigh the price heavily when considering the offer for the Buy Box. However, prices aren’t the end all; I’ve chatted with multiple sellers who were plagued with one-star reviews and were unable to win the Buy Box without tanking their price.
 
->You have so much
->
->But you are always hungry for more
->
->Stop looking up at everything you don’t have
->
->And look around at everything you do
->
->\- Where the satisfaction lives
+> The main takeaway: **Prices aren’t set in stone.** Be a savvy shopper and keep an eye on prices, because they change all the time. You may be able to find a cheaper offer which has slower shipping or less reviews in the ‘other offers’ view.
+> 
 
-Emotions are fleeting things. If we wait until we *feel* like being grateful, we might end up bitter and pessimistic, expecting good things to fall into our laps. If we embrace the obligation of intentional practices, we strengthen our gratitude; putting in the work can result in spontaneous gratitude. Gratitude can be deeply felt *and* intentional, structured *and* meaningful. **The satisfaction lives in our gratitude.**
+### **By the time you check out and your purchase is headed your way, it’s on the final leg of its journey**
 
+When arbitrage sellers first source their item, they may pick it up from a physical store or have it shipped to their home. From there, they’ll either (a) ship the item to Amazon’s warehouse (b) ship the item to a shipping center that specializes in ‘prepping’ items for the Amazon warehouse or (c) hang onto the item and ship directly to the end consumer (merchant fulfilled shipping). *(Established arbitrage sellers might have inventory delivered straight to the prep center.)*
 
-![The Science of Gratitude & How to Build a Gratitude Practice _ Huberman Lab Podcast #47.png](1.png)
+Wholesale and private label sellers are most likely to operate at scale, so they often avoid touching the inventory at all. Once they make an inventory purchase, it’ll go to the prep center to get ready for Amazon.
+
+One of the more unique (*and most efficient*) distribution paths is for drop shippers. These 3rd-party sellers pass Amazon orders directly to the supplier, who fulfills the order outside of the Amazon network. The shipping for these offers are likely to be slower than Prime.
+
+![Journey of an Amazon package sketch.png](3.png)
+
+When the item is fulfilled by Amazon (’FBA’), it’ll arrive at the closest warehouse and then be distributed to warehouses across the country so that it can be shipped to you in speedy 2-day fashion. 
+
+The advantage of skipping the Amazon distribution network is avoiding FBA fees as well as storage fees. However, Amazon is less likely to feature your offer in the Buy Box if it can’t compete with their impressive deliver timeframe. ‘Merchant fulfilled’ sales still incur a platform fee which Amazon calls a ‘referral fee.’
+
+> The main takeaway: **Amazon is more of a behemoth than the average consumer realizes**—an entire industry sprung up to support the marketplace, and Amazon charges fees at every step in the journey.
+> 
+
+## Will my rural family continue to rely on Amazon?
+
+Amazon’s network effect works in it’s favor. The more consumers default to shopping on Amazon, the more businesses use Amazon to reach consumers, the more service and software companies spring up to fill needs of these businesses—the more prevalent the Amazon ecosystem will be. 
+
+That being said, many third party sellers also rely on market inefficiencies to run their stores. Without a significant margin between a wholesale or arbitrage lead and the sale price on Amazon, it doesn’t make sense for sellers to incur all of the hefty Amazon selling fees.
+
+The convenience for customers and the global reach of Amazon are also keys to its success. Customers value convenience, which means Amazon holds significant power over brick and mortar stores and smaller-scale online marketplaces. This is what ultimately creates the margins sellers need to continue selling on Amazon.
+
+In other words, Prime will stick around as long as we value convenience. And if Amazon’s global network of marketplaces is here to stay, my hope is that tech advancement makes this trademark convenience even cheaper and more efficient. 
 
 ---
-*After reading this, did you decide to create or revise your gratitude practice?*
+*Did you find something to ponder about the Amazon ecosystem in reading this?*
 *[Let me know!](https://twitter.com/messages/compose?recipient_id=2381079666)* 📬
 
+[^1]: There’s a general consensus among sellers and third party Amazon tools that at least 82% of sales come through the Buy Box, but I wasn’t able to find the origin of this statistic. One way to understand this is to think about how often you check the ‘other offers’ on an Amazon listing. If you usually just click ‘Add to cart’ without a second thought, it makes sense why most of the sales can be traced to the Buy Box.
 
-
-[^1]: Andrew Huberman (of [Huberman Lab](https://hubermanlab.com/)) is the people’s neuroscientist. His mission is to create zero cost to consumer content that helps us optimize our routines and understand the inner workings of our nervous system. He is an incredible influence in our household and the reason why we prioritize cold/heat exposure, seek out morning light, and praise effort over performance. 
-[^2]: James Clear is the author of Atomic Habits (a practical book that’s easy to read, which is why I think it’s so powerful). He has a blog post just on habit stacking [here](https://jamesclear.com/habit-stacking).
-[^3]: [Philip Watkins](https://www.researchgate.net/profile/Philip-Watkins) has been studying and publishing work on gratitude for over a decade at Eastern Washington University. Quotes in this post are from his 2014 book ‘**Gratitude and the Good Life: Toward a Psychology of Appreciation**’, but he’s published several more recent studies.
-[^4]: [Rupi Kaur](https://rupikaur.com/pages/about-me) is a poet and performer. Her book ‘*the sun and her flowers*’ is one of my favorite collections, which is the source of this poem.
+[^2]: [Aura](https://goaura.com/one) is on a mission to increase sales and profit for Amazon sellers with their intuitive repricer, powered by machine learning. Bootstrapped and backed by nerds.
