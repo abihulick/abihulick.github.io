@@ -12,9 +12,7 @@ I once totaled up the number of Amazon orders my family has made in the last two
 
 That being said, I can’t deny the perks of having so many essentials right at your fingertips—especially as someone who lives in the middle of nowhere. In rural Wyoming, Amazon Prime reliably and affordably delivers essentials to my family year-round.
 
-**But how exactly do the magical Prime packages arrive on your doorstep so quickly? Turns out it’s more complicated than I thought.**
-
-Read on for insights I’ve gleaned while working in the Amazon ecosystem this year. 👇 
+**But how exactly do the magical Prime packages arrive on your doorstep so quickly? Turns out it’s more complicated than I thought. Here's my insider take on this industry.**
 
 ### **Sellers from all over the world source and list products**
 
@@ -26,7 +24,7 @@ There are entire communities of students, stay-at-home moms, retirees, etc. maki
 
 ![Most common 3P Business Models Sketch.png](1+.png)
 
-Among these, arbitrage is the most likely to result in competition on a listing itself (ie. when multiple sellers are selling the exact same item).
+Among these, arbitrage is the most likely to result in competition on a listing itself (i.e. when multiple sellers are selling the exact same item).
 
 Given the low barrier to entry, selling on Amazon is an attractive side hustle. I once met a woman who generated thousands of dollars of revenue each month reselling a popular southern breakfast grain on Amazon, and a county judge who operated a pet supply storefront.
 
@@ -45,7 +43,7 @@ At any one time, you will see one seller’s offer displayed on the front page f
 
 This is where my work over the past year comes in—the world of Amazon repricers. The company[^2] where I manage Customer Success designed a software to optimize prices to give sellers the best chance at winning the Buy Box. 
 
-Many factors go into determining the Buy Box ‘winner’ (some of which are mostly speculation, as the true algorithm is under Amazon lock and key), including quality of reviews, review volume, order defect rate, reliability, speed of delivery, and price—the lever sellers can control the most directly. 
+Many factors go into determining the Buy Box ‘winner’ (some of which are mostly speculation, as the true algorithm is under Amazon lock and key), including seller feedback ratings, order defect rate, speed of delivery, and price—the lever sellers can control the most directly. 
 
 💡*Repricers adjust seller’s prices to keep them competitive with other sellers on the listing. These can often be set to match or undercut the offer in the Buy Box.*
 
@@ -60,24 +58,24 @@ When arbitrage sellers first source their item, they may pick it up from a physi
 
 Wholesale and private label sellers are most likely to operate at scale, so they often avoid touching the inventory at all. Once they make an inventory purchase, it’ll go to the prep center to get ready for Amazon.
 
-One of the more unique (*and most efficient*) distribution paths is for drop shippers. These 3rd-party sellers pass Amazon orders directly to the supplier, who fulfills the order outside of the Amazon network. The shipping for these offers are likely to be slower than Prime.
+One of the more unique (*and most efficient*) distribution paths is for drop shippers. These 3rd-party sellers pass Amazon orders directly to the supplier, who fulfills the order outside of the Amazon network. The shipping for these offers are likely to be slower than Prime and sellers must be careful about meeting the strict criteria for dropshipping per Amazon's ToS.
 
 ![Journey of an Amazon package sketch.png](3.png)
 
-When the item is fulfilled by Amazon (’FBA’), it’ll arrive at the closest warehouse and then be distributed to warehouses across the country so that it can be shipped to you in speedy 2-day fashion. 
+When the item is fulfilled by Amazon (’FBA’), it’ll arrive at the closest warehouse and then be distributed to warehouses across the country so that it can be shipped to you in speedy 2-day Prime fashion. 
 
 The advantage of skipping the Amazon distribution network is avoiding FBA fees as well as storage fees. However, Amazon is less likely to feature your offer in the Buy Box if it can’t compete with their impressive deliver timeframe. ‘Merchant fulfilled’ sales still incur a platform fee which Amazon calls a ‘referral fee.’
 
-> The main takeaway: **Amazon is more of a behemoth than the average consumer realizes**—an entire industry sprung up to support the marketplace, and Amazon charges fees at every step in the journey.
+> The main takeaway: **Amazon is more of a behemoth than the average consumer realizes**—it's both a marketplace and a massive logistics company shuffling goods and data non-stop. An entire industry sprung up to support the marketplace, and Amazon charges fees at every step in the journey.
 > 
 
-## Will my rural family continue to rely on Amazon?
+### Will my rural family continue to rely on Amazon?
 
 Amazon’s network effect works in it’s favor. The more consumers default to shopping on Amazon, the more businesses use Amazon to reach consumers, the more service and software companies spring up to fill needs of these businesses—the more prevalent the Amazon ecosystem will be. 
 
-That being said, many third party sellers also rely on market inefficiencies to run their stores. Without a significant margin between a wholesale or arbitrage lead and the sale price on Amazon, it doesn’t make sense for sellers to incur all of the hefty Amazon selling fees.
+That being said, many third party sellers also rely on market inefficiencies to run their stores. Without a significant margin between a wholesale or arbitrage lead and the sale price on Amazon, it doesn’t make sense for sellers to incur the hefty selling fees or invest their vauable time.
 
-The convenience for customers and the global reach of Amazon are also keys to its success. Customers value convenience, which means Amazon holds significant power over brick and mortar stores and smaller-scale online marketplaces. This is what ultimately creates the margins sellers need to continue selling on Amazon.
+The convenience for customers and the global reach of Amazon are also keys to its success. Customers value convenience and avoid friction, which means Amazon holds significant power over brick and mortar stores and smaller-scale online marketplaces. This is what ultimately creates the margins sellers need to continue selling on Amazon.
 
 In other words, Prime will stick around as long as we value convenience. And if Amazon’s global network of marketplaces is here to stay, my hope is that tech advancement makes this trademark convenience even cheaper and more efficient. 
 
