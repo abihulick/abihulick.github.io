@@ -64,16 +64,16 @@ One of the more unique (*and most efficient*) distribution paths is for dropship
 
 When the item is fulfilled by Amazon (’FBA’), it’ll arrive at the closest warehouse and then be distributed to warehouses across the country so that it can be shipped to you in speedy 2-day Prime fashion. 
 
-The advantage of skipping the Amazon distribution network is avoiding FBA fees as well as storage fees. However, Amazon is less likely to feature your offer in the Buy Box if it can’t compete with their impressive deliver timeframe. ‘Merchant fulfilled’ sales still incur a platform fee which Amazon calls a ‘referral fee.’
+The advantage of skipping the Amazon distribution network is avoiding FBA fees as well as storage fees. However, Amazon is less likely to feature your offer in the Buy Box if it can’t compete with their impressive delivery timeframe. ‘Merchant fulfilled’ sales still incur a platform fee which Amazon calls a ‘referral fee.’
 
-> The main takeaway: **Amazon is more of a behemoth than the average consumer realizes**—it's both a marketplace and a massive logistics company shuffling goods and data non-stop. An entire industry sprung up to support the marketplace, and Amazon charges fees at every step in the journey.
+> The main takeaway: **Amazon is more of a behemoth than the average consumer realizes**—it's both a marketplace and a massive logistics company shuffling goods and data non-stop. An entire industry sprung up to support 3P sellers and Amazon, which charges fees at every step in the journey.
 > 
 
 ### Will my rural family continue to rely on Amazon?
 
-Amazon’s network effect works in it’s favor. The more consumers default to shopping on Amazon, the more businesses use Amazon to reach consumers, the more service and software companies spring up to fill needs of these businesses—the more prevalent the Amazon ecosystem will be. 
+Amazon’s network effect works in it’s favor. The more consumers default to shopping on Amazon, the more businesses use Amazon to reach consumers, the more service and software companies spring up to fulfill the needs of these businesses—the more prevalent the Amazon ecosystem will be. 
 
-That being said, many third party sellers also rely on market inefficiencies to run their stores. Without a significant margin between a wholesale or arbitrage lead and the sale price on Amazon, it doesn’t make sense for sellers to incur the hefty selling fees or invest their vauable time.
+That being said, many third party sellers rely on market inefficiencies to run their stores. Without a significant margin between a wholesale or arbitrage lead and the sale price on Amazon, it doesn’t make sense for sellers to incur the hefty selling fees or invest their vauable time.
 
 The convenience for customers and the global reach of Amazon are also keys to its success. Customers value convenience and avoid friction, which means Amazon holds significant power over brick and mortar stores and smaller-scale online marketplaces. This is what ultimately creates the margins sellers need to continue selling on Amazon.
 
