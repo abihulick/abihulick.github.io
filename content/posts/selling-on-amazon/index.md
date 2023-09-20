@@ -22,7 +22,7 @@ These can be established businesses selling their own products on the Amazon mar
 
 There are entire communities of students, stay-at-home moms, retirees, etc. making a living selling on Amazon. The most common business models are arbitrage (online or retail), wholesale, dropshipping, and private label.
 
-![Most common 3P Business Models Sketch.png](1+.png)
+![Most common 3P Business Models Sketch.png](1=.png)
 
 Among these, arbitrage is the most likely to result in competition on a listing itself (i.e. when multiple sellers are selling the exact same item).
 
