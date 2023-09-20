@@ -20,7 +20,7 @@ The most surprising insight for me is that we are often buying from small busine
 
 These can be established businesses selling their own products on the Amazon marketplace for greater reach, but it’s often individuals and small businesses who found that product cheaper elsewhere to resell on Amazon.
 
-There are entire communities of students, stay-at-home moms, retirees, etc. making a living selling on Amazon. The most common business models are arbitrage (online or retail), wholesale, drop shipping, and private label.
+There are entire communities of students, stay-at-home moms, retirees, etc. making a living selling on Amazon. The most common business models are arbitrage (online or retail), wholesale, dropshipping, and private label.
 
 ![Most common 3P Business Models Sketch.png](1+.png)
 
@@ -54,11 +54,11 @@ Amazon also wants to provide consumers with the best prices, so they’ll weigh 
 
 ### **By the time you check out and your purchase is headed your way, it’s on the final leg of its journey**
 
-When arbitrage sellers first source their item, they may pick it up from a physical store or have it shipped to their home. From there, they’ll either (a) ship the item to Amazon’s warehouse (b) ship the item to a shipping center that specializes in ‘prepping’ items for the Amazon warehouse or (c) hang onto the item and ship directly to the end consumer (merchant fulfilled shipping). *(Established arbitrage sellers might have inventory delivered straight to the prep center.)*
+When arbitrage sellers first source their item, they may pick it up from a physical store or have it shipped to their home. From there, they’ll either (a) ship the item to a center that specializes in ‘prepping’ items for the Amazon warehouse (b) prep the items at home and ship them to Amazon on their own or (c) hang onto the item and ship directly to the end consumer (merchant fulfilled shipping). *(Established arbitrage sellers might have inventory delivered straight to the prep center.)*
 
 Wholesale and private label sellers are most likely to operate at scale, so they often avoid touching the inventory at all. Once they make an inventory purchase, it’ll go to the prep center to get ready for Amazon.
 
-One of the more unique (*and most efficient*) distribution paths is for drop shippers. These 3rd-party sellers pass Amazon orders directly to the supplier, who fulfills the order outside of the Amazon network. The shipping for these offers are likely to be slower than Prime and sellers must be careful about meeting the strict criteria for dropshipping per Amazon's ToS.
+One of the more unique (*and most efficient*) distribution paths is for dropshippers. These 3rd-party sellers pass Amazon orders directly to the supplier, who fulfills the order outside of the Amazon network. The shipping for these offers are likely to be slower than Prime and sellers must be careful about meeting the strict criteria for dropshipping per Amazon's ToS.
 
 ![Journey of an Amazon package sketch.png](3.png)
 
